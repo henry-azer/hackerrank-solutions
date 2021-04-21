@@ -17,7 +17,7 @@ class JavaBigDecimal {
             s[i] = scan.next();
       	scan.close();
 
-      	// JavaPriorityQueue
+      	// Solution
         Comparator<String> comparator = (o1, o2) -> {
             BigDecimal a = new BigDecimal(o1);
             BigDecimal b = new BigDecimal(o2);
