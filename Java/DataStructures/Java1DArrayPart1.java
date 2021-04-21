@@ -2,7 +2,7 @@ package Java.DataStructures;
 
 import java.util.*;
 
-public class Java1DArray {
+public class Java1DArrayPart1 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
